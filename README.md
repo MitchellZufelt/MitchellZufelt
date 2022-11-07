@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MitchellZufelt
 - 👀 I’m interested in using data and econometric methods to study public policy.
 - 🌱 I’m skilled in R, SQL, STATA, and LaTeX, and I'm getting to know Python. 
-- 📫 Please reach out! Email: mitchellzufelt@gmail.com
+- 📫 Please reach out! Email: mzufelt@uchicago.edu
 
 <!---
 MitchellZufelt/MitchellZufelt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
